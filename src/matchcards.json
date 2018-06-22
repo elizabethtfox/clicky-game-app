@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/yellowLabs.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/blackLab.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/boxer.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/dauchsand.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/frenchie.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/husky.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/pug.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/pupMug.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/spaniel.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/terrier.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/yorkie.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/beagle.jpeg",
+    "clicked": false
+  }
+]
